@@ -68,3 +68,46 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
   * Not all statistical models are just about prediction.
   * Border defense:  Is that *really* CS?
   * Necessity to argue for practical application of each result.
+
+### Who's Gets a Patch Accepted First?
+
+* Do volunteers have to try more than employees to have a patcha ccepted?
+* Do volunteers have to wait much more than employees to have a patch processed?
+* Do volunteers follow contributing best practices?
+* Volunteers face 26x more rejections than employees.
+* Volunteers have to wait on average 11 days to have a patch processed, as opposed to three days for employees.
+* Apparently nobody follows contributing best practices.
+
+### A Case Study of Distances in a Large Co-Located Software Development Organisation
+
+* Trying to ellicit requirements, figure out implementation, and do adequate testing turns out to be one long big game of telephone---something always gets miscommunicated along the way.
+* Information traverses *distances* to achieve software development tasks.
+* Practices decrease (or bridge) distances.
+* Distances:
+  * Interpersonal:  geographical, organisational, psychological, cognitive, temporal.
+  * Artifacts:  semantic, adherence, navigational.
+* Challenges increase with growing company/team size.
+* Interactive posters for data gathering.
+
+### Code Review for New Developers:  Is It Different?
+
+* Newcomers' changes are less likely to be merged.
+
+### Discussion
+
+#### How do you get people to accept best practices?
+
+* Just convince them it's useful for them, rather than the company.
+* Reading up on best practices isn't producing code, therefore developers feel that work is inefficient.  Laziness is a big driver for behavior.
+* Context matters, and whatever policies are accepted in the realm of best practices should be viewed as not set in stone.  You should be able to adapt practices to new information/environment.
+
+#### How can we get the rest of ICSE to view CHASE as its core instead of periphery?
+
+* Can we draw more people in from disciplines outside CS?
+* Perhaps we should go to other conferences.
+* Can we include some of this human aspects stuff into SE university programs. 
+* Ex. from Brazil, they work human aspects topics into group projects with real clients throughout the course without directly teaching any human aspects stuff.
+
+#### Note
+
+* ICSE 2019 is in Montreal
