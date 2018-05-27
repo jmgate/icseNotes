@@ -30,3 +30,16 @@
 * How can we make the business agile enough to mesh with the agile development?
   * Continuous planning and budgeting.
 
+### Some reasons why actual cross-fertilization in cross-functional teams is difficult
+
+* Cross-functional:  The team has all the expertise it needs without any outside help.
+* Cross-fertilization:  Spreading knowledge from different domains and people across the team.
+* What is motivating or demotivating team members to work in a cross-functional manner?
+* Inclination to interact  affected by:
+  * Perception of inefficiency
+  * Desire to learn
+  * Sense of domain responsibility:  to keep the work and your personal knowledge in your own domain in proper shape.
+  * Issues with career progression
+  * Domain distance:  if you're required to do something further away from your area of expertise.
+  * Wrong level of detail
+  * Loss of focus
