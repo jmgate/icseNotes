@@ -11,6 +11,13 @@
 * Team norm clarity seems to be a slightly better predictor of job satisfaction, etc., than psychological safety.
 * How can you foster psychological safety and norm clarity in software engineering teams?
 
-### How do Practitioners Perceive Assurance Cases in Safety-Critical Software Systems?
+### The Structure of Software Design Discussions
 
+* Design Erosion:  Information on the design of a project slowly deteriorates over time.
+* Can we use discussions to recover design information that's been lost?
+* How does design information occur in written discussion?  (Where?)
+* How are elements of design information related in a written discussion?  (How?)
+* Structure of a discussion is nonlinear.
+* Candidates (potential solutions) are often hard to distinguish from questions.
 
+###  
