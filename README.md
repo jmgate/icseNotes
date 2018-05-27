@@ -43,3 +43,7 @@
   * Domain distance:  if you're required to do something further away from your area of expertise.
   * Wrong level of detail
   * Loss of focus
+* Cognitave distance&mdash;connects to domain distance and level of detail.  Preknowledge of individuals likely a factor.  Personal motivation and personality also.
+* Zone approximate development?
+
+### 
