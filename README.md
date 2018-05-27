@@ -20,4 +20,13 @@
 * Structure of a discussion is nonlinear.
 * Candidates (potential solutions) are often hard to distinguish from questions.
 
-###  
+### Research Cooperation and Communication in Continuous Software Engineering
+
+* Continuous Software Engineering:  Releasing ASAP; two weeks = a year.
+* Challenges:  Tooling & architecting, quality, and business & user interaction.
+* Automate the build, test, deploy pipeline.
+* Challenges:  Design for testability & deployability.
+* Your test automation is only as good as your test suite.
+* How can we make the business agile enough to mesh with the agile development?
+  * Continuous planning and budgeting.
+
