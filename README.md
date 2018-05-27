@@ -46,4 +46,25 @@
 * Cognitave distance&mdash;connects to domain distance and level of detail.  Preknowledge of individuals likely a factor.  Personal motivation and personality also.
 * Zone approximate development?
 
-### 
+### What would a science of software engineering look like?
+
+Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
+* Does SE research have impact?
+  * No one seems confident.
+  * Computer science is the scientific underpinning of SE, but SE is not CS.
+* Does science create impact?
+  * Trial and error is a slow way to work toward an understanding.
+  * Science may not have immediate application.
+  * "Theory-oriented software engineering"; "A systematic review of theory use in software engineering experiements"
+* What sort of science?
+  * Human science of software engineering.
+  * Problem:  people finding the right experts at a remote site.  Solution:  expertise browser.
+  * Transactive memory systems (TMS).
+  * Socio-technical coordination:  think of it as a constraint satisfaction problem over engineering design decisions.
+* Barriers to human science of SE:
+  * The universal principle of interdisciplinary contempt.
+  * The Dilbert Pointy Haired Boss Principle:  everything I don't understand is simple.
+  * Intellectual worth is evaluated on a single dimension:  from math to BS.
+  * Not all statistical models are just about prediction.
+  * Border defense:  Is that *really* CS?
+  * Necessity to argue for practical application of each result.
