@@ -1,6 +1,6 @@
 # Notes from ICSE 2018
 
-## Sunday, May 27
+## Sunday, May 27 (Cooperative & Human Aspects of Software Engineering)
 
 ### Psychological Safety and Norm Clarity in Software Engineering Teams
 
