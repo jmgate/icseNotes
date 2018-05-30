@@ -129,7 +129,7 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
   * Rooting out flaky tests.
   * Best-Used by Date.
 
-### Toward Enhancing the Training of Software Engineering Students and Professionals with Active Video Watching
+### Toward Enhancing the Training of Software Engineering Students and Professionals with Active Video Watching (SEET)
 
 * Teaching (transferable) soft skills is rather challenging.
   * Taught in (group) project courses, workshops.
@@ -146,11 +146,11 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Step 2:  review & rate others' comments
 * It'd be good to get an idea of students' conceptual knowledge before and after a course.
 
-### Developing an Optimizing Compiler for the GameBoy as a SE Project
+### Developing an Optimizing Compiler for the GameBoy as a SE Project (SEET)
 
 * Let students explain things back to you.
 
-### Easing IoT Development for Novice Developers using Code Recipes
+### Easing IoT Development for Novice Developers using Code Recipes (SEET)
 
 * Integration of heterogeneous software components is one of the most painful issues novice developers experience, largely due to lack of documentation.
 * Examples are a valuable resource for programmers, but the rich context surrounding them is often crucial for adaptation and integration.
@@ -165,17 +165,17 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Documentation URLs
 * Cross-linked recipes
 
-### Making the Liskov Substitution Principle Happy and Sad
+### Making the Liskov Substitution Principle Happy and Sad (SEET)
 
 * Use cartoons to make remembering things easy.
 
-### Panel Discussion
+### Panel Discussion (SEET)
 
 * Quick and regular feedback is important.
 * Good to give feedback on SE practices.
 * EdEx -- look into this.
 
-### Open-Source Software in Class:  Students' Common Mistakes
+### Open-Source Software in Class:  Students' Common Mistakes (SEET)
 
 * Common mistakes:
   * Textual:  bad naming, hardcoding, comments (lack thereof, or commenting every line)
@@ -193,3 +193,10 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
   * milestone submissions
   * test-driven development
 * Perhaps create "New Developer Spin-Up" milestone for Drekar.  Add certain issues:  start-up checklist, remove warnings, create new Evaluator, etc.
+
+### Are CS and Engineering Graduates Ready for the Software Industry?  Experiences from an Industrial Student Trainin Program (SEET)
+
+* How can we more effectively select and prepare new gradduates for their full-time jobs?
+* Big difference between the student environment and a real software development environment.
+* Insert onboarding activities before the hiring interviews.  Allows you to screen out bad fits and make sure potential hires are up-to-speed with company policies and practices.
+* Classes in agile, V&V, etc.---things that tend to be left out of university programs.
