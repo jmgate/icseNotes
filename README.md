@@ -175,3 +175,21 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Good to give feedback on SE practices.
 * EdEx -- look into this.
 
+### Open-Source Software in Class:  Students' Common Mistakes
+
+* Common mistakes:
+  * Textual:  bad naming, hardcoding, comments (lack thereof, or commenting every line)
+  * Coding:  duplicated code, long methods, switch statements, failing functionality
+  * Design:  not following existing design, prefer to write from scratch
+  * Testing:  shallow tests focussed on irrelevant, unlikely-to-fail conditions
+  * Mergeability:  messy pull requests, minor (whitespace, naming) changes
+  * Specification:  
+* Suggestions for Quality Control of PRs:
+  * Elaborated project requirements
+  * Better communication
+  * usage of third-party tools
+    * coveralls
+    * travis-ci
+  * milestone submissions
+  * test-driven development
+* Perhaps create "New Developer Spin-Up" milestone for Drekar.  Add certain issues:  start-up checklist, remove warnings, create new Evaluator, etc.
