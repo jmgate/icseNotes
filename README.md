@@ -173,5 +173,5 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 
 * Quick and regular feedback is important.
 * Good to give feedback on SE practices.
-
+* EdEx -- look into this.
 
