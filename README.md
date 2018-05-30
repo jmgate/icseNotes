@@ -111,3 +111,7 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 #### Note
 
 * ICSE 2019 is in Montreal
+
+## Wednesday, May 30
+
+
