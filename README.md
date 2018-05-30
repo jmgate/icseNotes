@@ -114,4 +114,36 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 
 ## Wednesday, May 30
 
+### 10+ Years of Teaching Software Engineering with iTrust:  the Good, the Bad and the Ugly (SEET)
+
+* http://tiny.cc/itrust18
+* Students work in teams in 1-week sprints.
+* An early and intense experience with teamwork.
+* Onboarding project:  Introduce technology stack and tools in classroom and labs (3 weeks).
+* Guided project:  Introduce rpocess, such as pull requests, coe review, design, and testing (4 weeks).
+* Team project:  Practice complete module development with teama nd process ( 3 weeks).
+* Make time for "ClassOps":
+  * Provide automation for course infrastructore:  Maintain scripts for setting up team repos and jenkins servers.
+  * Rooting out flaky tests.
+  * Best-Used by Date.
+
+### Toward Enhancing the Training of Software Engineering Students and Professionals with Active Video Watching
+
+* Teaching (transferable) soft skills is rather challenging.
+  * Taught in (group) project courses, workshops.
+  * Require feedback/coaching.
+  * ==> video based training
+* Active video watching:
+  * watching + doing
+  * engage with topic
+  * deeper knowledge
+* Environment:  AVW-Space
+  * 4 tutorial videos (< 8 minutes each)
+  * 4 example videos (< 8 minutes each)
+* Step 1:  watch + comment
+* Step 2:  review & rate others' comments
+* It'd be good to get an idea of students' conceptual knowledge before and after a course.
+
+### Developing an Optimizing Compiler for the GameBoy as a SE Project
+
 
