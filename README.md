@@ -146,4 +146,21 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 
 ### Developing an Optimizing Compiler for the GameBoy as a SE Project
 
+* Let students explain things back to you.
 
+### Easing IoT Development for Novice Developers using Code Recipes
+
+* Integration of heterogeneous software components is one of the most painful issues novice developers experience, largely due to lack of documentation.
+* Examples are a valuable resource for programmers, but the rich context surrounding them is often crucial for adaptation and integration.
+* Code recipes:  Summarized and well-defined *documentation modeles*, independent from programming languages or runtime environments, by which *non-expert programmers* can smoothy become familiar with *source code*...
+* Structured around code fragments
+* More than just code
+* Cross-linked
+* Ingrdients
+* Dependencies
+* One of more code fragments
+* Parameters
+* Documentation URLs
+* Cross-linked recipes
+
+### 
