@@ -112,6 +112,8 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 
 * ICSE 2019 is in Montreal
 
+
+
 ## Wednesday, May 30
 
 ### 10+ Years of Teaching Software Engineering with iTrust:  the Good, the Bad and the Ugly (SEET)
@@ -163,4 +165,13 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Documentation URLs
 * Cross-linked recipes
 
-### 
+### Making the Liskov Substitution Principle Happy and Sad
+
+* Use cartoons to make remembering things easy.
+
+### Panel Discussion
+
+* Quick and regular feedback is important.
+* Good to give feedback on SE practices.
+
+
