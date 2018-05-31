@@ -200,3 +200,25 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Big difference between the student environment and a real software development environment.
 * Insert onboarding activities before the hiring interviews.  Allows you to screen out bad fits and make sure potential hires are up-to-speed with company policies and practices.
 * Classes in agile, V&V, etc.---things that tend to be left out of university programs.
+
+## Thursday, May 31
+
+### Learning the Hard Way:  A History 1843&ndash;1980 of Software Engineering
+
+* Fred Brooks
+* The Mythical Man-Month; No Silver Bullet
+* Program:  Something I write and I use.
+* Software product:  Something I write and someone else uses.  Requires:
+  * Testing
+  * Documentation
+  * Maintenance
+* Software engineering = the discipline of making software products.
+* "Preliminary Design of a Calculating Machine"
+* "The Preparation of Programs for an Electronic Digital Computer"
+* Verification:  Am I getting the requirements right?
+* Validation:  Am I building the right product at all?
+* Grady Booch:  https://learning.acm.org/webinars/"History of Software Engineering"
+* Barr Boehm's Liftetime Contributions to Software Development, Management, and Research
+* Hoffman & Weiss, Software Fundamentals:  Collected Papers of David L. Parnas
+
+### 
