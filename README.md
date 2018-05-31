@@ -221,4 +221,29 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * Barr Boehm's Liftetime Contributions to Software Development, Management, and Research
 * Hoffman & Weiss, Software Fundamentals:  Collected Papers of David L. Parnas
 
-### 
+### Understanding Developers' Needs for Deprecation as a Language Feature
+
+* Generally speaking, API users will happily use deprecated features willy-nilly.  There's no incentive to not use them.
+* API developers aren't motivated to actually remove features because of the potential pain it'll cause for its customers.
+* Make sure you design things correctly the first time around.
+* If you're going to deprecate and remove something, provide API users with an automated means of updating their code.
+
+### On the Dichotomy of Debugging Among Developers
+
+* Developers need more training in using debuggers, in a big way.
+
+### Reimagining a Course in Software Project Management
+
+* Paul Ralph (University of Auckland) -- find out more.
+
+### Software Process Improvement
+
+* Essentially do BSSw's PSIP.
+* Definition of Done:  Tell the developers when something is ready to be demoed to the product owner at the sprint review.
+  * Often too general, missing important details, etc.
+* Schedule and planning issues:
+  * vague schedule, ceremonies often not broken down
+  * failure to take initiative
+  * no rules about resource sharing
+  * no rules for user story selection defined
+* 
