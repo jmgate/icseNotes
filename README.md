@@ -246,4 +246,7 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
   * failure to take initiative
   * no rules about resource sharing
   * no rules for user story selection defined
-* 
+
+### 50 Years of Software Engineering
+
+* How is software engineering different from programming?  It's the multi-person development of multi-version programs.
