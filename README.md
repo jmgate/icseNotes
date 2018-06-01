@@ -288,4 +288,6 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 
 * See paper.
 
-### 
+### Increasing Student Engagement in Higher Education Using a Context-Aware Q&A Teaching Framework
+
+* Get the paper&mdash;may be really useful for git classes.
