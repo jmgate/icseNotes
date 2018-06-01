@@ -250,3 +250,36 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 ### 50 Years of Software Engineering
 
 * How is software engineering different from programming?  It's the multi-person development of multi-version programs.
+
+## Friday, June 1
+
+### What makes a great amanager of software engineers?
+
+* Management in SE is important and misunderstood.
+* Managers impact outcomes.
+  * Great managers have a positive impact on the performance of teams.
+  * Poor managers have a negative impact.
+* Managers impact people.
+  * Employee retention, engagement.
+  * With more engaged employees, companies can do better.
+* How to manage software engineers?
+* What makes a great manager of software engineers?
+* What attributes matter (aka the nature of the role)?
+  * is available
+  * is technical
+  * cultivate (with individual and with team)
+  * motivate (with individual and with team)
+  * mediate (with individual and with team)
+* supports experimentation
+  * apply minimum quality criteria, even to experiments
+* recognizes individuality
+  * tailor work considering preferences and skills
+* drives alignment
+  * engage developers in duscussing strategy
+* How technical is a great manager?
+  * follow the work the engineers are doing
+  * have intelligent conversation when developers get stuck
+  * can provide technical solutions when developers get stuck
+* social skills more important than technical skills
+  * deficit in social skills harder to bridge
+* See paper for further details.
