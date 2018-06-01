@@ -283,3 +283,9 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 * social skills more important than technical skills
   * deficit in social skills harder to bridge
 * See paper for further details.
+
+### Older Adults and Hackathons:  A Qualitative Study
+
+* See paper.
+
+### 
