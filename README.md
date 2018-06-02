@@ -291,3 +291,57 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 ### Increasing Student Engagement in Higher Education Using a Context-Aware Q&A Teaching Framework
 
 * Get the paper&mdash;may be really useful for git classes.
+
+
+
+## Saturday, June 2
+
+* Dave Parnas&mdash;who is this?
+
+### Methodology for Building Granular Testing in Multicomponent Scientific Software
+
+* E3SM
+
+### The Software Engineering Initiative of DLR:  Overcome the Obstacles and Develop Sustainable Software
+
+* How to support scientists in creating sustainable software?
+* Lack of resources
+  * project based funding
+  * hard accessible long-term funding
+  * missing infrastructure
+* Lack of motivation
+  * unmotivated scientist
+  * unmotivated management
+  * missing incentives
+* Lack of knowledge
+  * missing knowledge
+  * missing strategy
+* the SE Initiative @ DLR
+  * Guidelines
+  * Trainings
+  * Knowledge Provision
+  * Collaboration
+  * Experience Exchange
+* SE Directive
+  * state important of SE for DLR's research activities
+  * part of DLR's quality policy
+  * focus on good practices, tools, and essential documentation
+  * checklists for different maturity levels
+  * reasoning and further advice
+* Trainings
+  * regular trainings are offered to provide handson experience in applying the guidelines and the DLR development tools.
+  * trainings offered yearly
+* Knowledge Exchange
+  * SE wiki
+    * topics, tools, best pratices, literature, Q&A, events, news, etc.
+  * Experience exchange workshops
+    * face to face meet-ups
+    * changing focal point
+    * results shared via wiki
+* Consulting
+  * seems to be one of the most effective strategies, but doesn't scale
+* Need to get more details on this.
+
+### 
+
+* 
