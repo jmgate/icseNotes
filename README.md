@@ -342,6 +342,6 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
   * seems to be one of the most effective strategies, but doesn't scale
 * Need to get more details on this.
 
-### 
+### Beyond Software Carpentry
 
-* 
+* Benefits of documentation (Parnas, 2010)
