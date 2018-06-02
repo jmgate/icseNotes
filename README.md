@@ -345,3 +345,4 @@ Jim Herbsleb @ Institute for Software Research @ Carnegie Mellon
 ### Beyond Software Carpentry
 
 * Benefits of documentation (Parnas, 2010)
+* Software Engineering for Computational Science:  Past, Present, and Future&mdash;look this up
